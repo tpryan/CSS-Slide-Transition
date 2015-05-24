@@ -1,4 +1,4 @@
-A little project that replaces default link behavior with a slide transition.
+#A little project that replaces default link behavior with a slide transition.
 
 Webkit only at the moment.
 
